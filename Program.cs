@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Permulaannn
+namespace Permulaann
 {
     class Program
     {
