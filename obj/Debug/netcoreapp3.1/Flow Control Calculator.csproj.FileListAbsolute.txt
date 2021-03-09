@@ -1,0 +1,13 @@
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\bin\Debug\netcoreapp3.1\Flow Control Calculator.exe
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\bin\Debug\netcoreapp3.1\Flow Control Calculator.deps.json
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\bin\Debug\netcoreapp3.1\Flow Control Calculator.runtimeconfig.json
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\bin\Debug\netcoreapp3.1\Flow Control Calculator.runtimeconfig.dev.json
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\bin\Debug\netcoreapp3.1\Flow Control Calculator.dll
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\bin\Debug\netcoreapp3.1\Flow Control Calculator.pdb
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.AssemblyInfoInputs.cache
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.AssemblyInfo.cs
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.csproj.CoreCompileInputs.cache
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.dll
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.pdb
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.genruntimeconfig.cache
+D:\Penting\Tugas\Pemograman\Flow Control Calculator\obj\Debug\netcoreapp3.1\Flow Control Calculator.csprojAssemblyReference.cache
