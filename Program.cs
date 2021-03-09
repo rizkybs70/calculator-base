@@ -46,9 +46,9 @@ namespace Permulaann
 
                 case 4:
                     Console.Write("Inputkan nilai a = ");
-                    int g = Convert.ToInt32(Console.ReadLine());
+                    double g = Convert.ToInt32(Console.ReadLine());
                     Console.Write("Inputkan nilai b = ");
-                    int h = Convert.ToInt32(Console.ReadLine());
+                    double h = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Hasil Pembagian {0} / {1} = {2}", g, h, Pembagiann(g, h));
                     break;
                 default:
