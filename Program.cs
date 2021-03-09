@@ -46,9 +46,9 @@ namespace Permulaann
 
                 case 4:
                     Console.Write("Inputkan nilai a = ");
-                    double g = Convert.ToInt32(Console.ReadLine());
+                    float g = float.Parse(Console.ReadLine());
                     Console.Write("Inputkan nilai b = ");
-                    double h = Convert.ToInt32(Console.ReadLine());
+                    float h = float.Parse(Console.ReadLine());
                     Console.WriteLine("Hasil Pembagian {0} / {1} = {2}", g, h, Pembagiann(g, h));
                     break;
                 default:
@@ -71,7 +71,7 @@ namespace Permulaann
         {
             return a * b;
         }
-        static int Pembagiann(int a, int b)
+        static float Pembagiann(float a, float b)
         {
             return a / b;
         }
